@@ -113,3 +113,4 @@ Notes:
 
  1. Compare against business models.
  2. Found excellent articles on dows in general.
+ 3. can DAOs slove inefficiencies in trad. companies?
